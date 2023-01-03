@@ -1,7 +1,8 @@
 ## Nguyên lý hoạt động
 ### Hiển thị số lượng gia súc gia cầm hiện có trong chuồng lên màn LCD 
-### được đặt tại cửa ra vào khi đó cảm biến siêu âm sẽ bắn sóng liên tục gồm 2 sóng tại 2 nguồn T và R có thể đơn giản hiểu T là "1" R là "2"
-### khi tín hiệu là "12" thì thiết bị hiểu có cá thể đi vào khi "21" tức là có cá thể đi ra
+### được đặt tại cửa ra vào khi đó cảm biến siêu âm sẽ bắn sóng liên tục 1 nguồn phát và 1 nguồn nhận
+### thiết bị được lắp 2 cảm biến sóng 
+### khi tín hiệu là "12"(tức là cảm biến 1 nhận t/h trước) thì thiết bị hiểu có cá thể đi vào khi "21" là có cá thể đi ra
 ### khi không còn cá thể trong chuồng sẽ tự động tắt đèn còn khi có ít nhất 1 cá thể sẽ tự động bật đèn
 
 
